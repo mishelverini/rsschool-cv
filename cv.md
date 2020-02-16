@@ -5,20 +5,21 @@
 ## Summary
 I would like to learn JavaScript better. Also I want to learn popular frameworks (React, Angular).
 ## Skills 
-| Skills          | Level         |
-| --------------- | :-----------: |
-| Java SE         | Intermediate  |   
-| Java EE         | Intermediate  | 
-| OOP             | Intermediate  | 
-| Design Patterns | Intermediate  | 
-| Git             | Intermediate  | 
-| Maven           | Intermediate  | 
-| JUnit           | Intermediate  | 
-| XML             | Intermediate  |
-| JavaScript      | Basic         |
-| HTML5/ CSS      | Advanced      |
-| Photoshop       | Expert        | 
-| VS Code         | Novice        |
+
+ Skills          | Level         
+ --------------- | ------------- 
+ Java SE         | Intermediate     
+ Java EE         | Intermediate   
+ OOP             | Intermediate   
+ Design Patterns | Intermediate   
+ Git             | Intermediate   
+ Maven           | Intermediate   
+ JUnit           | Intermediate   
+ XML             | Intermediate  
+ JavaScript      | Basic         
+ HTML5/ CSS      | Advanced      
+ Photoshop       | Expert        
+ VS Code         | Novice        
 
 ## Code examples
 [GitHub](https://github.com/mishelverini)
