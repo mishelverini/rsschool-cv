@@ -21,6 +21,7 @@ I would like to learn JavaScript better. Also I want to learn popular frameworks
 | VS Code         | Novice        |
 
 ##Code examples
+[GitHub](https://github.com/mishelverini)
 ##Experience 
 Nearly a year I work in a small software development company.
 ##Education
