@@ -1,0 +1,13 @@
+.wrapper {
+    width: 1024px;
+    margin: 0 auto;
+}
+td,
+th {
+    padding: 10px;
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+    border: 3px solid black;
+}
